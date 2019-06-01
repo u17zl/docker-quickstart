@@ -1,7 +1,7 @@
 # docker-quickstart
 This a quickstart for how to make a simple php apache environment of docker image
 
-## - Download docker
+## Download docker
 [Docker Download](https://www.docker.com/get-started)  
 Install docker and then run it
 ## Create basic files
